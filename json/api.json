@@ -29,7 +29,7 @@
         },
         {
             "name": "Shigeki No Kyojin",
-            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+            "description": "es una serie de manga escrita e ilustrada por Hajime Isayama. La historia gira en torno a Eren Jaeger y sus amigos de la infancia, Armin Arlert y Mikasa Ackerman. En este mundo, la población humana vive concentrada dentro de tres enormes muros (María, Rose y Sina) para protegerse de la aparición de seres gigantescos que devoran personas: los titanes. Un día, el distrito Shiganshina, ubicado en una de las partes externas al sur del primer muro denominado María, es atacado por un titán, más grande que los demás, causando una brecha y abriendo el paso al resto de los titanes logrando así invadir la ciudad, incidente durante el cual la madre de Eren es devorada por un titán. Tras el caos ocasionado, y una vez están a salvo, los jóvenes deciden unirse al ejército y combatir a los titanes por sí mismos.",
             "Rating": "8.50",
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Boku No Pico",
-            "description": "Esto es un Yaoi, no lo veas jjjjjjjjjj.",
+            "description": "Esto es un Yaoi, no lo veas, por favor, te quiero mucho y no quiero hacerte daño.",
             "Rating": "8.16",
             "episode": 70,
             "categorie":"Animation | Drama | Adventure",
@@ -74,11 +74,11 @@
         },
         {
             "name": "Cory en la Casa Blanca",
-            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
+            "description": "es una serie de televisión estadounidense transmitida por Disney Channel. Es un spin-off de That's So Raven y una producción de It's a Laugh Productions, Warren & Rinsler Productions y Disney Channel Original Series. La segunda temporada inició en septiembre del 2007. En septiembre de 2008 se anunció que la serie fue cancelada.",
             "Rating": "7.66",
             "episode": 25,
             "categorie":"Drama | Adventure",
-            "studio":"A-1 Pictures",
+            "studio":"Disney Channel",
             "img": "https://pm1.narvii.com/6206/e88961ef7691bdbca5eb13d0b26205d45d127b2f_hq.jpg"
         },
         {
@@ -100,13 +100,13 @@
             "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
         },
         {
-            "name": "Nanatsu no Taizai",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "name": "Candy Candy",
+            "description": "es un manga japonés escrito e ilustrado por Kyōko Mizuki, uno de los seudónimos de Keiko Nagita, y la mangaka Yumiko Igarashi, publicado en Japón por Kōdansha Ltd. desde 1975 a 1979. La historia cuenta las vivencias de una chica huérfana llamada Candice "Candy" White. Fue adaptada en una serie de anime por Toei Animation entre 1976 y 1979, que se distribuyó internacionalmente, volviéndose muy popular en muchos países. Ganó el primer premio Kodansha Manga para shōjo en 1977. Las ventas del manga llegaron a 13 millones de ejemplares.",
             "Rating": "8.30",
             "episode": 24,
             "categorie":"Animation | Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+            "img": "https://i.pinimg.com/originals/1f/f1/c2/1ff1c2f6a625b93d6e41fc0ad07b6f78.jpg"
         }
 
     ]
