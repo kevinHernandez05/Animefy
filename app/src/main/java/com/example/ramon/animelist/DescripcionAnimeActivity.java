@@ -4,6 +4,7 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.AppCompatImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -26,9 +27,6 @@ public class DescripcionAnimeActivity extends AppCompatActivity {
         int epi = getIntent().getExtras().getInt("episodio");
         String img = getIntent().getExtras().getString("imagen");
 
-
-        CollapsingToolbarLayout collapsingToolbarLayout = findViewById(R.id.collap);
-        collapsingToolbarLayout.setTitleEnabled(true);
 
         TextView tv_nombre = findViewById(R.id.b_nombre);
         TextView tv_descripcion = findViewById(R.id.b_descripcion);

@@ -21,7 +21,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String Json_url = "";
+    private final String Json_url = "https://raw.githubusercontent.com/kevinHernandez05/Animefy/master/json/api.json";
     private JsonArrayRequest request;
     private RequestQueue requestQueue;
     private List<Anime> ListaAnime;
