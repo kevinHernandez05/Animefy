@@ -1,112 +1,109 @@
-    [
-        
-        {
-            "name": "Black Clover",
-            "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
-            "Rating": "6.5",
-            "episode": 51,
-            "categorie":"Magic | Shounen | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
-        },
-        {
-            "name": "Naruto: Shippuuden",
-            "description": "Es la segunda parte del anime basado en el manga Naruto, de Masashi Kishimoto a partir del volumen número 28. Narra las aventuras de Naruto Uzumaki a su regreso a Konoha, tras haber estado dos años y medio entrenando con Jiraiya. Corresponde a la segunda parte del manga, que se inicia tras el Kakashi Gaiden y tras la finalización del relleno de Naruto en el anime.",
-            "Rating": "9.6",
-            "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
-        {
-            "name": "Publicidad",
-            "description": "Inscribete ahora!",
-            "Rating": "8.5",
-            "episode": 700,
-            "categorie":"Publicidad | ADMOB",
-            "studio":"UNAPEC (Universidad Acción Pro Educación y Cultura)",
-            "img": "https://pbs.twimg.com/profile_images/779332889280479232/P-ZEiyLz_400x400.jpg"
-        },
-        {
-            "name": "Shigeki No Kyojin",
-            "description": "es una serie de manga escrita e ilustrada por Hajime Isayama. La historia gira en torno a Eren Jaeger y sus amigos de la infancia, Armin Arlert y Mikasa Ackerman. En este mundo, la población humana vive concentrada dentro de tres enormes muros (María, Rose y Sina) para protegerse de la aparición de seres gigantescos que devoran personas: los titanes. Un día, el distrito Shiganshina, ubicado en una de las partes externas al sur del primer muro denominado María, es atacado por un titán, más grande que los demás, causando una brecha y abriendo el paso al resto de los titanes logrando así invadir la ciudad, incidente durante el cual la madre de Eren es devorada por un titán. Tras el caos ocasionado, y una vez están a salvo, los jóvenes deciden unirse al ejército y combatir a los titanes por sí mismos.",
-            "Rating": "8.50",
-            "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Wit Studio",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
-        },
-        {
-            "name": "Boku No Pico",
-            "description": "Esto es un Yaoi, no lo veas, por favor, te quiero mucho y no quiero hacerte daño.",
-            "Rating": "8.16",
-            "episode": 70,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "http://pa1.narvii.com/6539/09163f2df67230644a011c31b6fef00da3514489_00.gif"
-        },
-        {
-            "name": "Death Note",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Animation | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
-        },
-        {
-            "name": "Violet Evergarden",
-            "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
-            "Rating": "8.39",
-            "episode": 14,
-            "categorie":"Fantasy | Drama ",
-            "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
-        },
-        {
-            "name": "Tokyo Ghoul",
-            "description": "",
-            "Rating": "8.01",
-            "episode": 12,
-            "categorie":"Action | Mystery",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
-        },
-        {
-            "name": "Cory en la Casa Blanca",
-            "description": "es una serie de televisión estadounidense transmitida por Disney Channel. Es un spin-off de That's So Raven y una producción de It's a Laugh Productions, Warren & Rinsler Productions y Disney Channel Original Series. La segunda temporada inició en septiembre del 2007. En septiembre de 2008 se anunció que la serie fue cancelada.",
-            "Rating": "7.66",
-            "episode": 25,
-            "categorie":"Drama | Adventure",
-            "studio":"Disney Channel",
-            "img": "https://pm1.narvii.com/6206/e88961ef7691bdbca5eb13d0b26205d45d127b2f_hq.jpg"
-        },
-        {
-            "name": "Kiseijuu: Sei no Kakuritsu",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.53",
-            "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
-        },
-        {
-            "name": "Hunter x Hunter (2011)",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "9.11",
-            "episode": 148,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
-        },
-        {
-            "name": "Candy Candy",
-            "description": "es un manga japonés escrito e ilustrado por Kyōko Mizuki, uno de los seudónimos de Keiko Nagita, y la mangaka Yumiko Igarashi, publicado en Japón por Kōdansha Ltd. desde 1975 a 1979. La historia cuenta las vivencias de una chica huérfana llamada Candice "Candy" White. Fue adaptada en una serie de anime por Toei Animation entre 1976 y 1979, que se distribuyó internacionalmente, volviéndose muy popular en muchos países. Ganó el primer premio Kodansha Manga para shōjo en 1977. Las ventas del manga llegaron a 13 millones de ejemplares.",
-            "Rating": "8.30",
-            "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://i.pinimg.com/originals/1f/f1/c2/1ff1c2f6a625b93d6e41fc0ad07b6f78.jpg"
-        }
-
-    ]
+    [{
+    "name": "Black Clover",
+    "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
+    "Rating": "6.5",
+    "episode": 51,
+    "categorie":"Magic | Shounen | Adventure",
+    "studio":"Studio Pierrot",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+},
+{
+    "name": "Naruto: Shippuuden",
+    "description": "Es la segunda parte del anime basado en el manga Naruto, de Masashi Kishimoto a partir del volumen número 28. Narra las aventuras de Naruto Uzumaki a su regreso a Konoha, tras haber estado dos años y medio entrenando con Jiraiya. Corresponde a la segunda parte del manga, que se inicia tras el Kakashi Gaiden y tras la finalización del relleno de Naruto en el anime.",
+    "Rating": "9.6",
+    "episode": 500,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"Studio Pierrot",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+},
+{
+    "name": "Publicidad",
+    "description": "Inscribete ahora!",
+    "Rating": "8.5",
+    "episode": 700,
+    "categorie":"Publicidad | ADMOB",
+    "studio":"UNAPEC (Universidad Acción Pro Educación y Cultura)",
+    "img": "https://pbs.twimg.com/profile_images/779332889280479232/P-ZEiyLz_400x400.jpg"
+},
+{
+    "name": "Shigeki No Kyojin",
+    "description": "es una serie de manga escrita e ilustrada por Hajime Isayama. La historia gira en torno a Eren Jaeger y sus amigos de la infancia, Armin Arlert y Mikasa Ackerman. En este mundo, la población humana vive concentrada dentro de tres enormes muros (María, Rose y Sina) para protegerse de la aparición de seres gigantescos que devoran personas: los titanes. Un día, el distrito Shiganshina, ubicado en una de las partes externas al sur del primer muro denominado María, es atacado por un titán, más grande que los demás, causando una brecha y abriendo el paso al resto de los titanes logrando así invadir la ciudad, incidente durante el cual la madre de Eren es devorada por un titán. Tras el caos ocasionado, y una vez están a salvo, los jóvenes deciden unirse al ejército y combatir a los titanes por sí mismos.",
+    "Rating": "8.50",
+    "episode": 500,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"Wit Studio",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+},
+{
+    "name": "Boku No Pico",
+    "description": "Esto es un Yaoi, no lo veas, por favor, te quiero mucho y no quiero hacerte daño.",
+    "Rating": "8.16",
+    "episode": 70,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"Madhouse",
+    "img": "http://pa1.narvii.com/6539/09163f2df67230644a011c31b6fef00da3514489_00.gif"
+},
+{
+    "name": "Death Note",
+    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "Rating": "8.16",
+    "episode": 500,
+    "categorie":"Animation | Adventure",
+    "studio":"Madhouse",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+},
+{
+    "name": "Violet Evergarden",
+    "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
+    "Rating": "8.39",
+    "episode": 14,
+    "categorie":"Fantasy | Drama ",
+    "studio":"Kyoto Animation",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+},
+{
+    "name": "Tokyo Ghoul",
+    "description": "",
+    "Rating": "8.01",
+    "episode": 12,
+    "categorie":"Action | Mystery",
+    "studio":"Studio Pierrot",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+},
+{
+    "name": "Cory en la Casa Blanca",
+    "description": "es una serie de televisión estadounidense transmitida por Disney Channel. Es un spin-off de That's So Raven y una producción de It's a Laugh Productions, Warren & Rinsler Productions y Disney Channel Original Series. La segunda temporada inició en septiembre del 2007. En septiembre de 2008 se anunció que la serie fue cancelada.",
+    "Rating": "7.66",
+    "episode": 25,
+    "categorie":"Drama | Adventure",
+    "studio":"Disney Channel",
+    "img": "https://pm1.narvii.com/6206/e88961ef7691bdbca5eb13d0b26205d45d127b2f_hq.jpg"
+},
+{
+    "name": "Kiseijuu: Sei no Kakuritsu",
+    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "Rating": "8.53",
+    "episode": 24,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"Madhouse",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+},
+{
+    "name": "Hunter x Hunter (2011)",
+    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "Rating": "9.11",
+    "episode": 148,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"Madhouse",
+    "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+},
+{
+    "name": "Candy Candy",
+    "description": "es un manga japonés escrito e ilustrado por Kyōko Mizuki, uno de los seudónimos de Keiko Nagita, y la mangaka Yumiko Igarashi, publicado en Japón por Kōdansha Ltd. desde 1975 a 1979. La historia cuenta las vivencias de una chica huérfana llamada Candice Candy White. Fue adaptada en una serie de anime por Toei Animation entre 1976 y 1979, que se distribuyó internacionalmente, volviéndose muy popular en muchos países. Ganó el primer premio Kodansha Manga para shōjo en 1977. Las ventas del manga llegaron a 13 millones de ejemplares.",
+    "Rating": "8.30",
+    "episode": 24,
+    "categorie":"Animation | Drama | Adventure",
+    "studio":"A-1 Pictures",
+    "img": "https://i.pinimg.com/originals/1f/f1/c2/1ff1c2f6a625b93d6e41fc0ad07b6f78.jpg"
+}
+]
