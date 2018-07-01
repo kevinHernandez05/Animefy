@@ -11,7 +11,7 @@
         },
         {
             "name": "Naruto: Shippuuden",
-            "description": " es la segunda parte del anime basado en el manga Naruto, de Masashi Kishimoto a partir del volumen número 28. Narra las aventuras de Naruto Uzumaki a su regreso a Konoha, tras haber estado dos años y medio entrenando con Jiraiya. Corresponde a la segunda parte del manga, que se inicia tras el Kakashi Gaiden y tras la finalización del relleno de Naruto en el anime.",
+            "description": "Es la segunda parte del anime basado en el manga Naruto, de Masashi Kishimoto a partir del volumen número 28. Narra las aventuras de Naruto Uzumaki a su regreso a Konoha, tras haber estado dos años y medio entrenando con Jiraiya. Corresponde a la segunda parte del manga, que se inicia tras el Kakashi Gaiden y tras la finalización del relleno de Naruto en el anime.",
             "Rating": "9.6",
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
@@ -20,7 +20,7 @@
         },
         {
             "name": "Publicidad",
-            "description": "Este es un API de ejemplo para el Diplomado de Programacion Movil para android en UNAPEC.",
+            "description": "Inscribete ahora!",
             "Rating": "8.5",
             "episode": 700,
             "categorie":"Publicidad | ADMOB",
@@ -79,7 +79,7 @@
             "episode": 25,
             "categorie":"Drama | Adventure",
             "studio":"A-1 Pictures",
-            "img": "https://pics.filmaffinity.com/cory_in_the_house_tv_series-405036806-large.jpg"
+            "img": "https://pm1.narvii.com/6206/e88961ef7691bdbca5eb13d0b26205d45d127b2f_hq.jpg"
         },
         {
             "name": "Kiseijuu: Sei no Kakuritsu",
