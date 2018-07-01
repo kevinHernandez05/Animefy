@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DescripcionAnimeActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_height="300dp"
+        android:layout_width="match_parent"
+        android:id="@+id/appBarLayout">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/collap"
+            app:layout_scrollFlags="exitUntilCollapsed|scroll"
+            app:title="Titulo Anime"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleMarginStart="8dp"
+            app:expandedTitleMarginEnd="64dp">
+
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:theme="@style/ThemeOverlay.AppCompat.Light" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="40dp">
+
+                <android.support.v7.widget.AppCompatImageView
+                    android:id="@+id/b_portada"
+                    android:layout_width="100dp"
+                    android:layout_height="match_parent"
+                    android:background="#e7ecec" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="130dp"
+                    android:orientation="vertical"
+                    android:layout_margin="8dp">
+
+
+                    <TextView
+                        android:id="@+id/b_nombre"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Titulo Anime"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/b_categoria"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Categoria"
+                        android:layout_marginTop="5dp"/>
+
+                    <TextView
+                        android:id="@+id/b_calificacion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@android:color/holo_green_light"
+                        android:text="0.0"
+                        android:textColor="@android:color/background_light"
+                        android:textSize="18dp"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/b_estudio"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Estudio"
+                        android:layout_marginTop="5dp"/>
+
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+    
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:padding="16dp">
+        
+        <TextView
+            android:text="Descripcion Anime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/b_descripcion"/>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

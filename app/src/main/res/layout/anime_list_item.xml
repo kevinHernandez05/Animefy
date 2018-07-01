@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_marginTop="5dp"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:background="#fff"
+    android:id="@+id/contenedor_anime_list">
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/portada"
+        android:layout_width="86dp"
+        android:layout_height="140dp"
+        android:layout_weight="1"
+        android:background="#e7ecec"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="10dp" />
+
+    <LinearLayout
+        android:layout_width="252dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:text="Titulo Anime"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.065"
+            app:layout_constraintStart_toEndOf="@+id/portada"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <TextView
+            android:id="@+id/categoria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Categoria"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.05"
+            app:layout_constraintStart_toEndOf="@+id/portada"
+            app:layout_constraintTop_toBottomOf="@+id/nombre"
+            app:layout_constraintVertical_bias="0.155" />
+
+        <TextView
+            android:id="@+id/estudio"
+            android:layout_width="101dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="208dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="208dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Estudio"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/portada"
+            app:layout_constraintTop_toBottomOf="@+id/categoria"
+            app:layout_constraintVertical_bias="0.636" />
+
+        <TextView
+            android:id="@+id/calificacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/colorPrimary"
+            android:text="0.0"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/estudio"
+            app:layout_constraintHorizontal_bias="0.576"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/portada"
+            app:layout_constraintVertical_bias="0.0" />
+
+    </LinearLayout>
+</LinearLayout>
