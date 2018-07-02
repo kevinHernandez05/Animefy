@@ -10,7 +10,7 @@
 - [x] Glide para las imagenes
 - [x] Volley para las llamadas a la API externa
 - [x] Android Studio
-- [x] Java
+- [x] Cafe
 
 ## Screenshoots de proyecto en el dispositivo movil
 
