@@ -36,7 +36,9 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="1.0"
+        android:maxLines = "180"
+        android:scrollbars = "vertical"/>
 
     <android.support.constraint.ConstraintLayout
         android:id="@+id/constraintLayout"
@@ -83,21 +85,21 @@
             android:id="@+id/b_calificacion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="8dp"
-            android:layout_marginEnd="2dp"
-            android:layout_marginLeft="280dp"
-            android:layout_marginRight="2dp"
-            android:layout_marginStart="280dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="328dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="328dp"
             android:layout_marginTop="8dp"
             android:text="0.0"
             android:textSize="18dp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/stars"
-            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.05"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.809" />
+            app:layout_constraintTop_toBottomOf="@+id/stars"
+            app:layout_constraintVertical_bias="0.0" />
 
         <TextView
             android:id="@+id/b_estudio"

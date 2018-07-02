@@ -4,6 +4,7 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.AppCompatImageView;
+import android.text.method.ScrollingMovementMethod;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -41,6 +42,9 @@ public class DescripcionAnimeActivity extends AppCompatActivity {
         tv_categoria.setText(cat);
         tv_calificacion.setText(cal);
         tv_estudio.setText(est);
+
+        //Esto hace que la descripcion pueda ser scrollable
+        tv_descripcion.setMovementMethod(new ScrollingMovementMethod());
 
         RequestOptions requestOptions = new RequestOptions().centerCrop().placeholder(R.drawable.loading_shape).error(R.drawable.loading_shape);
 
