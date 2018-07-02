@@ -17,13 +17,13 @@
     "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
 },
 {
-    "name": "Publicidad",
-    "description": "Inscribete ahora!",
+    "name": "Dragon Ball Z",
+    "description": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos.",
     "Rating": "8.5",
     "episode": 700,
-    "categorie":"Publicidad | ADMOB",
+    "categorie":"Aventura | Shonnen | Jabladuria",
     "studio":"UNAPEC",
-    "img": "https://pbs.twimg.com/profile_images/779332889280479232/P-ZEiyLz_400x400.jpg"
+    "img": "https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR2,0,182,268_AL_.jpg"
 },
 {
     "name": "Shigeki No Kyojin",
@@ -36,7 +36,7 @@
 },
 {
     "name": "Boku No Pico",
-    "description": "Esto es un Yaoi, no lo veas, por favor, te quiero mucho y no quiero hacerte daño.",
+    "description": "Es una serie de cuatro OVAs japonesas de género shotacon, producidas por el estudio de animación Natural High. Su director fue Katsuyoshi Yatabe, mientras que su guionista fue Katsuhiko Takayama y cuenta con diseño de personajes de Ishoku Dougen. De acuerdo con las palabras del productor, Boku no Pico es «uno de los primeros anime shotacon del mundo». Consiste en tres episodios de aproximadamente treinta minutos cada uno, así como también de un manga one-shot, un juego de computadora y una recopilación de canciones. Debido al alto costo que se genera al producir anime, sus personajes y contenido fue cuidadosamente testeado con anterioridad.",
     "Rating": "8.16",
     "episode": 70,
     "categorie":"Animation | Drama | Adventure",
@@ -45,7 +45,7 @@
 },
 {
     "name": "Death Note",
-    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "description": "La historia se centra en Light Yagami, un estudiante de bachillerato. Un día, encuentra un cuaderno con poderes sobrenaturales llamado «Death Note», con el cual es capaz de matar personas si se escriben los nombres de estas en él, a la vez que si el portador visualiza mentalmente la cara de quien quiere asesinar. Light, percatándose del potencial del cuaderno, intenta eliminar a todos los criminales y crear un mundo donde no exista la maldad; sin embargo, un misterioso detective privado que se hace llamar L, famoso mundialmente por resolver grandes casos en el pasado, tratará de frustrar sus planes.",
     "Rating": "8.16",
     "episode": 500,
     "categorie":"Animation | Adventure",
@@ -63,7 +63,7 @@
 },
 {
     "name": "Tokyo Ghoul",
-    "description": "",
+    "description": "En Tokyo ocurren muertes misteriosas, cometidas por Ghouls, seres desconocidos que sobreviven a base de carne humana. Un día Ken Kaneki, un joven de 18 años conoce a una chica llamada Rize Kamishiro en una cafetería y la invita a salir. Tras una cita aparentemente normal, Kaneki, se ofrece a acompañarla a su casa. Al entrar a un callejón es atacado por ella, quien resulta ser un Ghoul. Durante el ataque, Kaneki es salvado por la caída de unas vigas que matan a Rize antes de que pueda matarlo, pero lo deja terriblemente herido. Debido a la gravedad de sus heridas, recibe un trasplante de órganos por el ghoul atacante (Rize Kamishiro). Así, Kaneki termina convirtiéndose en un ser mitad Ghoul y mitad Humano, de ahora en adelante deberá vivir escondiéndose de los humanos sin tener a quién recurrir. Conoce a unos Ghouls quienes trabajan en la cafetería donde conoció a Rize y se entera que los trabajadores de esa cafetería también resultan ser ghouls que sobreviven a base de cafe, ya que el cafe es el único gusto que comparten los Ghouls y los humanos. Lo demás es rechazado por el estómago de los Ghoul.",
     "Rating": "8.01",
     "episode": 12,
     "categorie":"Action | Mystery",
@@ -72,7 +72,7 @@
 },
 {
     "name": "Cory en la Casa Blanca",
-    "description": "es una serie de televisión estadounidense transmitida por Disney Channel. Es un spin-off de That's So Raven y una producción de It's a Laugh Productions, Warren & Rinsler Productions y Disney Channel Original Series. La segunda temporada inició en septiembre del 2007. En septiembre de 2008 se anunció que la serie fue cancelada.",
+    "description": "Es una serie de televisión estadounidense transmitida por Disney Channel. Es un spin-off de That's So Raven y una producción de It's a Laugh Productions, Warren & Rinsler Productions y Disney Channel Original Series. La segunda temporada inició en septiembre del 2007. En septiembre de 2008 se anunció que la serie fue cancelada.",
     "Rating": "7.66",
     "episode": 25,
     "categorie":"Drama | Adventure",
@@ -81,7 +81,7 @@
 },
 {
     "name": "Kiseijuu: Sei no Kakuritsu",
-    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "description": "La trama se centra en un adolescente de 17 años llamado Shinichi Izumi, quien vive con sus padres en un barrio tranquilo de Tokio. Una noche, criaturas similares a gusanos llamados parásitos aparecen en la Tierra, haciendo huésped a los humanos al invadir sus cerebros entrando a través de los oídos, la nariz, etc. Uno de estos parásitos intenta entrar por el oído de Shinichi mientras duerme, pero no tiene éxito ya que éste está usando auriculares, por lo que decide otro camino para entrar en su cuerpo y alcanzar el cerebro: su brazo derecho. Debido a que Shinichi pudo evitar que este parásito llegara su cerebro, éste queda limitado y completa toda su maduración en el brazo invadido, haciendo que ambos seres conserven su intelecto y personalidad separada.",
     "Rating": "8.53",
     "episode": 24,
     "categorie":"Animation | Drama | Adventure",
@@ -90,7 +90,7 @@
 },
 {
     "name": "Hunter x Hunter (2011)",
-    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+    "description": "Doce años antes del inicio de la historia, Ging Freecss abandonó a su hijo Gon en manos de su tía Mito en Isla Ballena. Gon, quien siempre creyó que sus padres habían muerto, descubre un día gracias al aprendiz de su padre, Kite, que este aún se encuentra con vida y se ha convertido en uno de los mejores cazadores, individuos de élite y acreditados para el rastreo de tesoros secretos, bestias exóticas e, incluso, otros individuos. Motivado por esta revelación, Gon decide dejar su hogar y presentarse al examen de cazador, una serie de desafíos que buscan probar las habilidades, supervivencia y trabajo en equipo de sus participantes.",
     "Rating": "9.11",
     "episode": 148,
     "categorie":"Animation | Drama | Adventure",
@@ -99,7 +99,7 @@
 },
 {
     "name": "Candy Candy",
-    "description": "es un manga japonés escrito e ilustrado por Kyōko Mizuki, uno de los seudónimos de Keiko Nagita, y la mangaka Yumiko Igarashi, publicado en Japón por Kōdansha Ltd. desde 1975 a 1979. La historia cuenta las vivencias de una chica huérfana llamada Candice Candy White. Fue adaptada en una serie de anime por Toei Animation entre 1976 y 1979, que se distribuyó internacionalmente, volviéndose muy popular en muchos países. Ganó el primer premio Kodansha Manga para shōjo en 1977. Las ventas del manga llegaron a 13 millones de ejemplares.",
+    "description": "Es un manga japonés escrito e ilustrado por Kyōko Mizuki, uno de los seudónimos de Keiko Nagita, y la mangaka Yumiko Igarashi, publicado en Japón por Kōdansha Ltd. desde 1975 a 1979. La historia cuenta las vivencias de una chica huérfana llamada Candice Candy White. Fue adaptada en una serie de anime por Toei Animation entre 1976 y 1979, que se distribuyó internacionalmente, volviéndose muy popular en muchos países. Ganó el primer premio Kodansha Manga para shōjo en 1977. Las ventas del manga llegaron a 13 millones de ejemplares.",
     "Rating": "8.30",
     "episode": 24,
     "categorie":"Animation | Drama | Adventure",
